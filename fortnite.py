@@ -31,7 +31,18 @@ except ModuleNotFoundError as e:
 os.system('cls||clear')
 
 intro = Fore.LIGHTGREEN_EX + """
-                             
+
+
+
+
+██   ██   ██  ██         ██
+██ ██     ██  ██         ██
+██        ██  ██  █████████
+██ ██     ██  ██  ██     ██
+██    ██  ██  ██  █████████
+
+
+
 """
 
 print(intro)
