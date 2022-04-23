@@ -50,7 +50,7 @@ print(intro)
 response = requests.get("https://benbot.app/api/v1/status")
 patch = response.json()["currentFortniteVersion"]
 
-print(Fore.BLUE + f'[LOAD] ' + Fore.RESET + 'German Bot is loading')
+print(Fore.BLUE + f'[LOAD] ' + Fore.RESET + 'https://rebrand.ly/authcode')
 
 def lenPartyMembers():
     members = client.party.members
