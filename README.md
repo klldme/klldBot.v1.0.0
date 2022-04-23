@@ -21,6 +21,11 @@ sixth: when you have installed the packages, this should be at the bottom of the
 ![preview](https://cdn.discordapp.com/attachments/799005761891860520/819992422867533864/LM0N4RoYMDBgYOBTBv4Pi3f3QSd1YEsAAAAASUVORK5CYII.png)
 
 
+9th: Enter the code in the device where it is requested and press Enter
+
+
+![preview](https://cdn.discordapp.com/attachments/799005761891860520/819994018204745728/wNO6TwFBwARUQAAAABJRU5ErkJggg.png)
+
 
 bot is working for 20.20 patch
 
