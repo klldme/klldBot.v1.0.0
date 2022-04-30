@@ -48,7 +48,10 @@ intro = Fore.LIGHTGREEN_EX + """
 print(intro)
 
 response = requests.get("https://benbot.app/api/v1/status")
+response = requests.get("https://fortnite-api.com/v2/cosmetics/br/search")
 patch = response.json()["currentFortniteVersion"]
+
+
 
 print(f'update\n')
 print(f'{patch}.\n')
